@@ -1,0 +1,1 @@
+SELECT * FROM db_turnos WHERE estado_turno = 'a';
