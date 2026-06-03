@@ -147,7 +147,7 @@ continuemos ampliando el sistemas.
 
 📜 Licencia
 
-Este proyecto puede licenciarse con la licencia que dese es. Una opción común es MIT License.
+
 
 MIT License
 
